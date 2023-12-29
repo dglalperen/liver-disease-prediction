@@ -1,8 +1,2 @@
-Hier ein Paper was den gleichen Datensatz wie wir benutzt hat:
-
+Reference Paper:
 https://www.sciencedirect.com/science/article/pii/S2352914822002921
-
-Die diabetes_risk_prediction pdf ist das example paper was der prof uns gesendet hat.
-Nimm von dem Paper nur den Aufbau, nicht den Inhalt
-
-Unser Thema ist Liver Disease Prediction!!!
